@@ -22,4 +22,12 @@ On FreeCodeCamp, started with the **Responsive Web Design Certification** and co
 
 Also, I need to learn Git/Github.
 
-Test
+### Day 2 - January 3, 2021
+
+Sencond day, finally got my git configured with `user.name` and `user.email` (this was actually done last night after I had already commited to the repo).
+
+On FreeCodeCamp I was able to complete the lesson Applied Visual Design, where among other things I was able to draw a heart shave as well as a a crescent moon shape.
+
+I also learnet a bit of Color Theory, which I will need to go over again, maybe tomorrow to better understand everything.
+
+I also learned about CSS animations with the \@keyframes rule. Learned about bezier curves, iteration counts, etc. I will try to read more about these topics too, looks like fun.
