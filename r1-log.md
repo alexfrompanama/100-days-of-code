@@ -30,4 +30,14 @@ On FreeCodeCamp I was able to complete the lesson Applied Visual Design, where a
 
 I also learnet a bit of Color Theory, which I will need to go over again, maybe tomorrow to better understand everything.
 
-I also learned about CSS animations with the \@keyframes rule. Learned about bezier curves, iteration counts, etc. I will try to read more about these topics too, looks like fun.
+I also learned about CSS animations with the `@keyframes` rule. Learned about bezier curves, iteration counts, etc. I will try to read more about these topics too, looks like fun.
+
+### Day 3 - January 4, 2021
+
+Today I went throught the Applied Accessibility module of FreeCodeCamp. 
+
+Lots of new information from when I first started looking at HTML. There are a lot more tags that give more meaning to the HTML code and helps screenreader users better understand and navigate the content of the website.
+
+Learned about the W3C's Web Content Accessibility Guide as well as general guidelines for colorblind users (which is great since I'm a strong protan).
+
+Definetively lots of more reading needed for the topics covered in Day 2 and 3 I expect to come back to these topics for the FCC challenges in the comming days.
