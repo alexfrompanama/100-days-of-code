@@ -41,3 +41,11 @@ Lots of new information from when I first started looking at HTML. There are a l
 Learned about the W3C's Web Content Accessibility Guide as well as general guidelines for colorblind users (which is great since I'm a strong protan).
 
 Definetively lots of more reading needed for the topics covered in Day 2 and 3 I expect to come back to these topics for the FCC challenges in the comming days.
+
+### Day 4 - January 5, 2021
+
+Today I almost skipped the day but in the end I completed two FreeCodeCamp modules, Responsive Design Principles, and CSS Flexbox.
+
+With these two modules I learned about viewports and new size units `vh, vw, vmin, vmax` as well as a basic technice for displaying images in a high resolution display.
+
+CSS Flexbox seems really nice for designing websites, this is another topic I will be reviewing and trying to get deeper into. Maybe on the weekends I will review some of these topics to see what's possible.
