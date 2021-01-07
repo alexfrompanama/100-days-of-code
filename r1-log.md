@@ -46,6 +46,20 @@ Definetively lots of more reading needed for the topics covered in Day 2 and 3 I
 
 Today I almost skipped the day but in the end I completed two FreeCodeCamp modules, Responsive Design Principles, and CSS Flexbox.
 
-With these two modules I learned about viewports and new size units `vh, vw, vmin, vmax` as well as a basic technice for displaying images in a high resolution display.
+With these two modules I learned about viewports and new size units `vh, vw, vmin, vmax` as well as a basic technique for displaying images in a high resolution display.
 
 CSS Flexbox seems really nice for designing websites, this is another topic I will be reviewing and trying to get deeper into. Maybe on the weekends I will review some of these topics to see what's possible.
+
+### Day 5 - January 6, 2021
+
+Today I learned about CSS Grid, this one I remember from the last time I was reading about HTML and CSS. This looks like a powerful system to create responsive website layouts.
+
+Next up are the 5 FreeCodeCamp projects. I will need to create:
+
+1. A tribute page.
+2. A survey form.
+3. A product landing page.
+4. A technical documantation page.
+5. A personal portfolio page.
+
+I will be reading more about where I will be hosting these, hopefully get an environment going and have my first sketches about these websites.
